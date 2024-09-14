@@ -1,5 +1,3 @@
-## Acknowledgements
-
 The forecasting capabilities of this application are made possible through the valuable contributions of several data providers. We are grateful for their high-quality data, which allows us to deliver accurate weather forecasts, air quality information, and radar maps to our users.
 
 ### Weather Forecast
