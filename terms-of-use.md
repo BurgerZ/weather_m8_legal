@@ -36,8 +36,6 @@ All content, trademarks, and logos in the app are the property of its developer 
 
 ### 6. Updates and Changes
 
-We reserve the right to update the app or these Terms of Use at any time. Continued use of the app after such changes are posted constitutes your acceptance of the updated terms.
-
 We reserve the right to update the app or these Terms of Use at any time. A history of changes to these Terms Of Use is available via our public source code repository at [https://github.com/burgerz/weather_m8_legal](https://github.com/burgerz/weather_m8_legal). We will take reasonable steps to notify you of any substantial changes to these Terms. However, it's your responsibility to check these Terms Of Use periodically for changes. Continued use of the app after such changes are posted constitutes your acceptance of the updated terms.
 
 ### 7. Termination
