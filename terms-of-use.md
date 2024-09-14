@@ -1,8 +1,8 @@
-## Weather M8 - Terms Of Use
+## Terms Of Use
 
 **Effective Date:** 14 September 2024
 
-Welcome to our weather mobile app. By using the app, you agree to these Terms of Use.
+Welcome to our weather mobile app - Weather M8. By using the app, you agree to these Terms of Use.
 
 ### 1. Use of the App
 
@@ -16,7 +16,7 @@ We strive to provide accurate weather information, but forecasts may not always 
 
 The app does not collect or store any personal information such as location or IP address. It only maintains **anonymous request logs** (app version and OS version) to ensure compatibility and improve performance. These logs are cleared after **7 days**.
 
-### 4. Subscriptions:
+### 4. Subscriptions
 
 Our app offers in-app subscriptions that provide access to premium features.
 
@@ -50,4 +50,4 @@ We are not liable for any direct, indirect, or consequential damages arising fro
 
 ### Contact Us
 
-For any questions or concerns regarding these Terms of Use, please contact us at [your email/contact info].
+For any questions or concerns regarding these Terms of Use, please contact us at [weatherm8@zaa.bz](mailto:weatherm8@zaa.bz).

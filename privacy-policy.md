@@ -1,4 +1,4 @@
-## Weather M8 - Privacy policy
+## Privacy policy
 
 **Effective Date:** 14 September 2024
 
@@ -15,7 +15,8 @@ We value your privacy and are committed to protecting your personal data. This P
 - Ensure that the weather data we provide is compatible with your device’s OS and app version.
 
 - Monitor and improve app functionality and resolve technical issues.
-Data Retention:
+
+### Data Retention
 
 Anonymous request logs are retained for a period of **7 days** and then automatically deleted.
 
