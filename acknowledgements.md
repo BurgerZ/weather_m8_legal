@@ -2,16 +2,16 @@ The forecasting capabilities of this application are made possible through the v
 
 ### Weather Forecast
 
-- [Open-Meteo](https://open-meteo.com/)
 - [ Weather](https://developer.apple.com/weatherkit/data-source-attribution/)
-- [Yr.no](https://www.yr.no/en)
-- [OpenWeatherMap](https://openweathermap.org/)
 - [Foreca](https://www.foreca.com/)
+- [Open-Meteo](https://open-meteo.com/)
+- [OpenWeatherMap](https://openweathermap.org/)
+- [Yr.no](https://www.yr.no/en)
 
 ### Air Quality Index (AQI)
 
-- [Open-Meteo](https://open-meteo.com/)
 - [OpenAQ](https://explore.openaq.org/)
+- [Open-Meteo](https://open-meteo.com/)
 - [World Air Quality Index Project (WAQI)](https://waqi.info/)
 
 ### Radar Maps
