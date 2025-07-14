@@ -1,5 +1,3 @@
-## Terms Of Use
-
 **Effective Date:** September 14, 2024
 
 Welcome to our weather mobile app - Weather M8. By using the app, you agree to these Terms of Use.
