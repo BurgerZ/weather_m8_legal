@@ -1,5 +1,3 @@
-## Privacy policy
-
 **Effective Date:** September 21, 2024
 
 We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we handle information in our weather mobile app.
