@@ -4,7 +4,7 @@ We value your privacy and are committed to protecting your personal data. This P
 
 ### Information We Collect
 
-- We do **not** collect any information that can identify you personally, including location, IP address, or other personal identifiers.
+- We do **not** collect any kind of information, and we don't store any user data beyond what is absolutely necessary, such as settings you have selected in the app.
 
 ### Third-Party Services
 
