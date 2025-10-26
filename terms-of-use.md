@@ -1,4 +1,4 @@
-**Effective Date:** September 14, 2024
+**Effective Date:** October 26, 2025
 
 Welcome to our weather mobile app - Weather M8. By using the app, you agree to these Terms of Use.
 
@@ -12,7 +12,7 @@ We strive to provide accurate weather information, but forecasts may not always 
 
 ### 3. Information Collected
 
-The app does not collect or store any personal information such as location or IP address. It only maintains **anonymous request logs** (app version and OS version) to ensure compatibility and improve performance. These logs are cleared after **7 days**.
+The app does not collect or store any kind of information.
 
 ### 4. Subscriptions
 
