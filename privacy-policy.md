@@ -1,12 +1,10 @@
-**Effective Date:** September 21, 2024
+**Effective Date:** October 26, 2025
 
 We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we handle information in our weather mobile app.
 
 ### Information We Collect
 
 - We do **not** collect any information that can identify you personally, including location, IP address, or other personal identifiers.
-
-- We only collect **anonymous request logs**, including app version, OS version, and non-personal data related to app usage, to ensure compatibility and improve app performance.
 
 ### Third-Party Services
 
@@ -22,28 +20,6 @@ Our app integrates weather and environmental data from third-party service provi
 - [RainViewer](https://www.rainviewer.com/privacy.html)
 
 Please note that these third-party providers may process your data independently, and we encourage you to review their privacy practices.
-
-### How We Use Collected Data
-
-- Ensure that the weather data we provide is compatible with your device’s OS and app version.
-
-- Monitor and improve app functionality and resolve technical issues.
-
-### Data Retention
-
-Anonymous request logs are retained for a period of **7 days** and then automatically deleted.
-
-### Data Sharing
-
-We do not share, sell, or trade any of the data collected. All collected data is anonymous and used solely for app improvement purposes.
-
-### Security
-
-We employ industry-standard measures to protect all data handled within the app, but cannot guarantee absolute data security.
-
-### Your Choices
-
-As we do not collect personal data, there are no opt-out options related to personal information.
 
 ### Changes
 
