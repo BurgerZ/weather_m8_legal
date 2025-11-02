@@ -12,11 +12,10 @@ The forecasting capabilities of this application are made possible through the v
 
 - [OpenAQ](https://explore.openaq.org/)
 - [Open-Meteo](https://open-meteo.com/)
-- [World Air Quality Index Project (WAQI)](https://waqi.info/)
 
-### Radar Maps
+### Weather Maps
 
-- [RainViewer](https://www.rainviewer.com/weather-radar-map-live.html)
+- [OpenWeatherMap](https://openweathermap.org/)
 
 ### Kp-Index (Geomagnetic Storm Forecast)
 
