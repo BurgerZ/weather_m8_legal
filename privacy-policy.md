@@ -1,4 +1,4 @@
-**Effective Date:** October 26, 2025
+**Effective Date:** November 2, 2025
 
 We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we handle information in our weather mobile app.
 
@@ -11,13 +11,11 @@ We value your privacy and are committed to protecting your personal data. This P
 Our app integrates weather and environmental data from third-party service providers. While we do not share any personally identifiable information with these services, they may have their own privacy policies regarding how they collect, use, and protect your data. We recommend reviewing the privacy policies of these providers:
 
 - [ Weather](https://www.apple.com/legal/privacy/data/en/weather/)
-- [Foreca](https://www.foreca.com/privacy-policy.html)
 - [Open-Meteo](https://open-meteo.com/en/terms)
+- [OpenAQ](https://openaq.org/privacy/)
 - [OpenWeatherMap](https://openweather.co.uk/privacy-policy)
 - [Yr.no](https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy)
-- [OpenAQ](https://openaq.org/privacy/)
-- [World Air Quality Index Project (WAQI)](https://aqicn.org/privacy/)
-- [RainViewer](https://www.rainviewer.com/privacy.html)
+- [WeatherAPI](https://www.weatherapi.com/privacy.aspx)
 
 Please note that these third-party providers may process your data independently, and we encourage you to review their privacy practices.
 
