@@ -14,8 +14,8 @@ Our app integrates weather and environmental data from third-party service provi
 - [Open-Meteo](https://open-meteo.com/en/terms)
 - [OpenAQ](https://openaq.org/privacy/)
 - [OpenWeatherMap](https://openweather.co.uk/privacy-policy)
-- [Yr.no](https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy)
 - [WeatherAPI](https://www.weatherapi.com/privacy.aspx)
+- [Yr.no](https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy)
 
 Please note that these third-party providers may process your data independently, and we encourage you to review their privacy practices.
 
