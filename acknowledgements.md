@@ -3,15 +3,15 @@ The forecasting capabilities of this application are made possible through the v
 ### Weather Forecast
 
 - [ Weather](https://developer.apple.com/weatherkit/data-source-attribution/)
-- [Foreca](https://www.foreca.com/)
 - [Open-Meteo](https://open-meteo.com/)
 - [OpenWeatherMap](https://openweathermap.org/)
+- [WeatherAPI](https://www.weatherapi.com/)
 - [Yr.no](https://www.yr.no/en)
 
 ### Air Quality Index (AQI)
 
-- [OpenAQ](https://explore.openaq.org/)
 - [Open-Meteo](https://open-meteo.com/)
+- [OpenAQ](https://explore.openaq.org/)
 
 ### Weather Maps
 
