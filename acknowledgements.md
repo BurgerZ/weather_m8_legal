@@ -3,10 +3,8 @@ The forecasting capabilities of this application are made possible through the v
 ### Data Sources
 
 - [ Weather](https://developer.apple.com/weatherkit/data-source-attribution/)
-- [Open-Meteo](https://open-meteo.com/)
-- [OpenWeatherMap](https://openweathermap.org/)
-- [WeatherAPI](https://www.weatherapi.com/)
 - [Yr.no](https://www.yr.no/en)
+- [WeatherAPI](https://www.weatherapi.com/)
 - [Open-Meteo](https://open-meteo.com/)
 - [OpenAQ](https://explore.openaq.org/)
 - [OpenWeatherMap](https://openweathermap.org/)
