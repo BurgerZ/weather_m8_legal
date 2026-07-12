@@ -1,7 +1,7 @@
 # Weather M8
 
 - [**Acknowledgements**](https://github.com/burgerz/weather_m8_legal/blob/master/acknowledgements.md)
-  - Modified: 2 November 2025
+  - Modified: 12 July 2026
 
 - [**Privacy Policy**](https://github.com/BurgerZ/weather_m8_legal/blob/master/privacy-policy.md)
   - Modified: 2 November 2025
