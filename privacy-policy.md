@@ -1,4 +1,4 @@
-**Effective Date:** November 2, 2025
+**Effective Date:** July 12, 2026
 
 We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we handle information in our weather mobile app.
 
@@ -11,11 +11,16 @@ We do **not** collect any kind of information, and we don't store any user data 
 Our app integrates weather and environmental data from third-party service providers. While we do not share any personally identifiable information with these services, they may have their own privacy policies regarding how they collect, use, and protect your data. We recommend reviewing the privacy policies of these providers:
 
 - [ Weather](https://www.apple.com/legal/privacy/data/en/weather/)
+- [Yr.no](https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy)
+- [WeatherAPI](https://www.weatherapi.com/privacy.aspx)
 - [Open-Meteo](https://open-meteo.com/en/terms)
 - [OpenAQ](https://openaq.org/privacy/)
 - [OpenWeatherMap](https://openweather.co.uk/privacy-policy)
-- [WeatherAPI](https://www.weatherapi.com/privacy.aspx)
-- [Yr.no](https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy)
+- [OpenStreetMap](https://osmfoundation.org/wiki/Privacy_Policy)
+- [OpenFreeMap](https://openfreemap.org/privacy/)
+- [DWD (Deutsche Wetterdienst)](https://www.dwd.de/EN/service/dataprotection/dataprotection_node.html)
+- [NOAA](https://www.noaa.gov/protecting-your-privacy)
+- [EUMETNET](https://www.eumetnet.eu/data-access/data-policy/)
 
 Please note that these third-party providers may process your data independently, and we encourage you to review their privacy practices.
 
