@@ -16,6 +16,7 @@ The forecasting capabilities of this application are made possible through the v
 - [NOAA (Planetary Kp-Index)](https://www.swpc.noaa.gov/products/planetary-k-index)
 - [NOAA/NCEI GFS](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast)
 - [EUMETNET OPERA](https://www.eumetnet.eu/observations/opera-radar-animation/)
-
+- [ECMWF IFS](https://www.ecmwf.int/en/forecasts/documentation-and-support/changes-ecmwf-model)
+- [ECMWF Open data](https://www.ecmwf.int/en/forecasts/datasets/open-data)
 
 We acknowledge the critical role these providers play in enabling the accuracy and reliability of the weather forecasts, air quality data, and other environmental insights offered by our app.

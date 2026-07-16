@@ -1,4 +1,4 @@
-**Effective Date:** July 12, 2026
+**Effective Date:** July 16, 2026
 
 We value your privacy and are committed to protecting your personal data. This Privacy Policy outlines how we handle information in our weather mobile app.
 
@@ -21,6 +21,7 @@ Our app integrates weather and environmental data from third-party service provi
 - [DWD (Deutsche Wetterdienst)](https://www.dwd.de/EN/service/dataprotection/dataprotection_node.html)
 - [NOAA](https://www.noaa.gov/protecting-your-privacy)
 - [EUMETNET](https://www.eumetnet.eu/data-access/data-policy/)
+- [ECMWF](https://www.ecmwf.int/en/privacy)
 
 Please note that these third-party providers may process your data independently, and we encourage you to review their privacy practices.
 
